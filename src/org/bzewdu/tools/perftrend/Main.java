@@ -45,7 +45,8 @@ public class Main {
         if (Config.debug) {
             System.out.println(" creating trend...");
         }
-        final HashMap<Character, String> hm = new HashMap<Character, String>();
+        final HashMap<Character, String> hm = 
+                            new HashMap<Character, String>();
         hm.put(Config.configAllprop.getProperty("SWINGTYPE").charAt(0), "Swing Summary");
         hm.put(Config.configAllprop.getProperty("ERGTYPE").charAt(0), "ERG Summary");
         hm.put(Config.configAllprop.getProperty("PROMOTEDTYPE").charAt(0), "Promoted Summary");
