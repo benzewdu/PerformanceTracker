@@ -1,0 +1,17 @@
+Needed to build and run (all can be found on Apache Jakarta, jdom.org, jfree.org and Oracle/Sun's JavaMail page) :
+
+JavaMail API
+mailapi.jar
+mail.jar
+
+
+jfreechart-0.9.0.jar
+jcommon-0.6.2.jar
+
+jdom.jar
+
+jakarta-oro-2.0.8.jar
+
+commons-pool-1.2.jar
+commons-dbcp-1.2.1.jar
+commons-collections-3.1.jar
